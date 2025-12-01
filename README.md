@@ -1,6 +1,6 @@
 # 🧹 Smart AI Paint-Out Workflow (ComfyUI)
 
-Watch a video guide here - 
+Watch demo and a video guide here - https://youtu.be/H__el-RhzuM
 
 A powerful ComfyUI workflow that removes any object from video and generates clean, stable plates automatically — without Nuke, roto, or frame-by-frame paint-out.
 
